@@ -9,3 +9,4 @@ Models used: **Linear Regression, Random Forest, Gradient Boosting, XGBoost**.
 
 The project highlights salary prediction and wage disparity analysis across departments.  
 
+📂 Dataset: [Download salary.csv](https://drive.google.com/file/d/1dNwtfHO3ZA5bqqmmeYsYTebM5SWMYkNR/view?usp=sharing)
